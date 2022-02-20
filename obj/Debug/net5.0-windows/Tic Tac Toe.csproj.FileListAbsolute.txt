@@ -1,0 +1,22 @@
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.exe
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.deps.json
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.dll
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\ref\Tic Tac Toe.dll
+C:\Users\Andrzej\source\repos\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.pdb
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe_MarkupCompile.cache
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe_MarkupCompile.lref
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.g.resources
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.dll
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\ref\Tic Tac Toe.dll
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.pdb
+C:\Users\Andrzej\source\repos\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.genruntimeconfig.cache
